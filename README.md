@@ -1,6 +1,6 @@
 # Awesome Deep Vision [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-forked from [kjw0612/awesome-deep-vision](https://github.com/forked from kjw0612/awesome-deep-vision)
+forked from [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 
 I wang to write a file including some interesing papers.
 
